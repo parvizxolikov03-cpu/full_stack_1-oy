@@ -1,0 +1,2 @@
+a = (Math.floor(Math.random() * 10) + 1) % 2 == 0;
+console.log(a);
